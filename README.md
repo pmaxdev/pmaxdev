@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pmaxdev
+- 👀 I’m interested in Flutter and React Native technologies.
+- 🌱 I’m currently learning various animation skills in mobile UI.
+- 📫 Please reach me at pmaxdev@gmail.com
